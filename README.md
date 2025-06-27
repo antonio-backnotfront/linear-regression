@@ -11,8 +11,11 @@
   </a>
 </div>
 
-<p align="center" style="text-align: center; font-size: 32px"><strong>📈🤖 Linear Regression</strong></p>
-<p align="center" style="text-align: center; font-size: 12px">by Anton Solianyk</p>
+<div>
+<h1 align="center"><strong>📈🤖 Linear Regression</strong></h1>
+<p align="center">by Anton Solianyk</p>
+
+</div>
 
 
 <br/>
