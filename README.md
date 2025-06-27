@@ -25,30 +25,30 @@
 <p align="center">The algorithm is implemented in two separate ways:</p>
 
 <table align="center" width="100%" style="table-layout: fixed;">
-  <tr>
-    <td width="50%" valign="top" style="padding: 20px;">
+<tr>
+<td width="50%" valign="top" style="padding: 20px;">
 
-      <h3 align="center">🐍 Raw Python Version</h3>
+<h3 align="center">🐍 Raw Python Version</h3>
 
-      <ul>
-        <li>No external libraries</li>
-        <li>Custom-built linear regression</li>
-        <li>Ideal for learning how the math works</li>
-      </ul>
+<ul>
+<li>No external libraries</li>
+<li>Custom-built linear regression</li>
+<li>Ideal for learning how the math works</li>
+</ul>
 
-    </td>
-    <td width="50%" valign="top" style="padding: 20px;">
+</td>
+<td width="50%" valign="top" style="padding: 20px;">
 
-      <h3 align="center">🚀 Enhanced Version</h3>
+<h3 align="center">🚀 Enhanced Version</h3>
 
-      <ul>
-        <li>Uses <code>NumPy</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>PyTorch</code></li>
-        <li>Faster, cleaner, and production-ready</li>
-        <li>Great for experimentation & visualization</li>
-      </ul>
+<ul>
+<li>Uses <code>NumPy</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>PyTorch</code></li>
+<li>Faster, cleaner, and production-ready</li>
+<li>Great for experimentation & visualization</li>
+</ul>
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 
