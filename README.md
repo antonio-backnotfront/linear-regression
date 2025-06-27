@@ -24,32 +24,34 @@
 <p align="center">An implementation of the fundamental Machine Learning Algorithm.</p>
 <p align="center">The algorithm is implemented in two separate ways:</p>
 
-<table align="center" width="100%" style="table-layout: fixed;">
+<table>
 <tr>
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top">
 
 <h3 align="center">🐍 Raw Python Version</h3>
 
 <ul>
-<li>No external libraries</li>
-<li>Custom-built linear regression</li>
-<li>Ideal for learning how the math works</li>
+  <li>No external libraries</li>
+  <li>Custom-built linear regression</li>
+  <li>Ideal for learning how the math works</li>
+  <br>
 </ul>
 
 </td>
-<td width="50%" valign="top" style="padding: 20px;">
+<td width="50%" valign="top">
 
 <h3 align="center">🚀 Enhanced Version</h3>
 
 <ul>
-<li>Uses <code>NumPy</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>PyTorch</code></li>
-<li>Faster, cleaner, and production-ready</li>
-<li>Great for experimentation & visualization</li>
+  <li>Uses <code>NumPy</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>PyTorch</code></li>
+  <li>Faster, cleaner, and production-ready</li>
+  <li>Great for experimentation & visualization</li>
 </ul>
 
 </td>
 </tr>
 </table>
+
 
 
 <br/>
