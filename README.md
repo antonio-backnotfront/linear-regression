@@ -26,7 +26,7 @@
 
 <table align="center">
 <tr>
-<td width="46%" valign="top">
+<td width="45%" valign="top">
 
 <h3 align="center">🐍 Raw Python Version</h3>
 
