@@ -33,7 +33,7 @@
 <ul>
   <li>No external libraries</li>
   <li>Custom-built linear regression</li>
-  <li>Ideal for learning how the math works</li>
+  <li>Ideal for learning how math works</li>
   <br>
 </ul>
 
