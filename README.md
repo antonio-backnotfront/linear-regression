@@ -26,7 +26,7 @@
 
 <table align="center">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3> 🐍 Raw Python Version </h3>
 
@@ -34,7 +34,7 @@
 - Custom-built linear regression
 - Ideal for learning how the math works
 </td>
-<td  width="50%">
+<td  width="50%" valign="top">
 
 <h3> 🚀 Enhanced Version </h3>
 
