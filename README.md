@@ -11,8 +11,8 @@
   </a>
 </div>
 
-<h1 style="text-align: center; margin-bottom: 0">📈🤖 Linear Regression</h1>
-<p style="text-align: center; font-size: 12px; margin-top: 2px; font-family: 'Fira Code'">by Anton Solianyk</p>
+<h1 align="center" style="text-align: center">📈🤖 Linear Regression</h1>
+<p align="center" style="text-align: center; font-size: 12px">by Anton Solianyk</p>
 
 
 <br/>
