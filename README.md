@@ -10,8 +10,7 @@
   </a>
 </div>
 
-<h3 align="center">Linear regression</h3>
-<p align="center">by Anton Solianyk</p>
+<h1 align="center">Linear regression</h3>
 
 <br/>
 <p align="center">
