@@ -26,19 +26,19 @@
 
 <table align="center">
 <tr>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
 <h3 align="center">🐍 Raw Python Version</h3>
 
 <ul>
   <li>No external libraries</li>
   <li>Custom-built linear regression</li>
-  <li>Ideal for learning how math works</li>
+  <li>Ideal for learning math</li>
   <br>
 </ul>
 
 </td>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 <h3 align="center">🚀 Enhanced Version</h3>
 
