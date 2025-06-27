@@ -8,9 +8,19 @@
   <a href="https://github.com/antonio-backnotfront/linear-regression/blob/main/LICENSE.txt">
     <img src="https://img.shields.io/github/license/antonio-backnotfront/linear-regression.svg?style=for-the-badge" alt="License">
   </a>
+<br>
+<a href="https://linkedin.com/in/anton-solianyk-906453221">
+  <img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+  <a href="mailto:anton.solianyk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-solyanicks%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
-<h1 align="center">Linear regression</h3>
+
+
+<h1 align="center">🤖📈 Linear regression</h1>
 
 <br/>
 <p align="center">
