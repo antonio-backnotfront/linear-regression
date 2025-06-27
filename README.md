@@ -24,11 +24,26 @@
 <p align="center">An implementation of the fundamental Machine Learning Algorithm.</p>
 <p align="center">The algorithm is implemented in two separate ways:</p>
 
-<p align="center">
-    <span>Raw Python (no external libraries)</span> •
-    <span>Enhanced version using external libraries such as <strong>Pandas</strong>, <strong>NumPy</strong>, <strong>Matplotlib</strong>, and <strong>PyTorch</strong></span>
-</p>
+<table>
+<tr>
+<td align="center" width="50%">
 
+### 🐍 Raw Python Version
+- No external libraries  
+- Custom-built linear regression  
+- Ideal for learning how the math works
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Enhanced Version
+- Uses `NumPy`, `Pandas`, `Matplotlib`, `PyTorch`  
+- Faster, cleaner, and production-ready  
+- Great for experimentation & visualization
+
+</td>
+</tr>
+</table>
 
 <br/>
 <p align="center">
@@ -36,6 +51,7 @@
   <a href="#-when-it-works" style="padding-right: 12px;"><strong>When It Works</strong></a> •
   <a href="#-demo" style="padding-right: 12px;"><strong>Demo</strong></a> •
   <a href="#-usage" style="padding-right: 12px;"><strong>Usage</strong></a> •
+  <a href="#-technologies-used" style="padding-right: 12px;"><strong>Tech</strong></a> •
   <a href="#-license" style="padding-right: 12px;"><strong>License</strong></a>
 </p>
 
@@ -50,6 +66,7 @@
 ## 📱 Demo
 ## 💻 Usage
 ## 📄 License
+## ⚙️ Used Technologies
 
 > One Parameter
 
