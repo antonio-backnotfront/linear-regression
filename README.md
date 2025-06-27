@@ -24,9 +24,9 @@
 <p align="center">An implementation of the fundamental Machine Learning Algorithm.</p>
 <p align="center">The algorithm is implemented in two separate ways:</p>
 
-<table>
+<table align="center">
 <tr>
-<td width="45%" valign="top">
+<td width="47%" valign="top">
 
 <h3 align="center">🐍 Raw Python Version</h3>
 
@@ -38,7 +38,7 @@
 </ul>
 
 </td>
-<td width="55%" valign="top">
+<td width="53%" valign="top">
 
 <h3 align="center">🚀 Enhanced Version</h3>
 
