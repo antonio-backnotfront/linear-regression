@@ -38,7 +38,7 @@
 </ul>
 
 </td>
-<td valign="top">
+<td valign="top" width="60%">
 
 <h3 align="center">🚀 Enhanced Version</h3>
 
