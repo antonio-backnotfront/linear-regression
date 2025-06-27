@@ -17,9 +17,9 @@
 <p align="center">
   <a href="#-how-it-works" style="padding-right: 12px;"><strong>How It Works</strong></a> •
   <a href="#-when-it-works" style="padding-right: 12px;"><strong>When It Works</strong></a> •
-  <a href="#demo" style="padding-right: 12px;"><strong>Demo</strong></a> •
-  <a href="#setup" style="padding-right: 12px;"><strong>Usage</strong></a> •
-  <a href="#license" style="padding-right: 12px;"><strong>License</strong></a>
+  <a href="#-demo" style="padding-right: 12px;"><strong>Demo</strong></a> •
+  <a href="#-setup" style="padding-right: 12px;"><strong>Usage</strong></a> •
+  <a href="#-license" style="padding-right: 12px;"><strong>License</strong></a>
 </p>
 
 ---
