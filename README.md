@@ -38,12 +38,12 @@
 </ul>
 
 </td>
-<td width="59%" valign="top">
+<td width="55%" valign="top">
 
 <h3 align="center">🚀 Enhanced Version</h3>
 
 <ul>
-  <li>Uses <code>NumPy</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>PyTorch</code></li>
+  <li>Uses <code>NumPy</code>,<code>Pandas</code>,<code>Matplotlib</code>,<code>PyTorch</code></li>
   <li>Faster, cleaner, and production-ready</li>
   <li>Great for experimentation & visualization</li>
 </ul>
