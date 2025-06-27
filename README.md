@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 <h3 align="center">🐍 Raw Python Version</h3>
 
@@ -38,7 +38,7 @@
 </ul>
 
 </td>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 <h3 align="center">🚀 Enhanced Version</h3>
 
