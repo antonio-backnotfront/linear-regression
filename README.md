@@ -71,6 +71,18 @@
 
 ![img](.github/images/linear-regression-pic.png)
 
+So basically the whole model is represented by this slope, which is used to predict values.  
+The prediction is based on parameters passed to the model ("x" on the slope), the "x" is not limited by one parameter, 
+it may be a set of parameters.
+
+### Training
+The model is trained using the dataset in folder ```src/data``` using K-fold Cross-Validation technique.  
+Before the actual training, the data is shuffled to guarantee a consistency.  
+Cross-Validation works in the following way:  
+take the dataset, split it into K roughly equal parts, use K-1 parts to train the data, use 1 remaining part
+for testing (validation).
+
+
 ## 🧠 When It Works
 ## 📱 Demo
 ## 💻 Usage
