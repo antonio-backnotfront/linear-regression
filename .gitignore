@@ -284,6 +284,7 @@ venv.bak/
 
 # Rope project settings
 .ropeproject
+src/data/housing.csv
 
 # mkdocs documentation
 /site
